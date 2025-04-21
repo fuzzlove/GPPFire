@@ -45,8 +45,8 @@ GPPfire - AutoLogin Passwords & Others etc...
 Python -         Run script (GPP.PS1)
 PowerShell -     Run Script (GPP.py)
 
-Description: This script was developed after GPP password tools were caught by AV/EDR please do yourself a favor and try both flavors to python and powershell. This could be used to gain access to scripts that cover these areas as far as powershell being used or python.
+Description: This script was developed after GPP password tools were caught by AV/EDR, unless your restricted to linux just go with the python. This could be used to gain access to leaked passwords commonly found in shares.
 
-Tested: This script was more for GPP AutoLogins like what you see in pingcastle, some of the scripts include GPP AutoLogins with the username and password from GPP. Works well on legacy environments. - SKY <3
+Tested: This script was more for GPP AutoLogins like what you see in pingcastle, include GPP AutoLogins with the username and password from GPP. Works well on legacy environments. - SKY <3
 
 S3 Security Inc. (S3) - 2025 (c)
