@@ -41,7 +41,7 @@
 
 GPPfire - AutoLogin Passwords & Others etc...
 
-Python -         Run script
+Python -         Run script (GPP.PS1)
 PowerShell -     Run Script
 
 Description: This script was developed after GPP password tools were caught by AV/EDR please do yourself a favor and try both flavors to python and powershell. This could be used to gain access to scripts that cover these areas as far as powershell being used or python.
