@@ -4,7 +4,7 @@
 # Finds passwords in SYSVOL
 # ________________________________
 
-$domain = "se.usa"
+$domain = "evil.corp" #Add your dommain here
 $sysvolRoot = "\\$domain\SYSVOL\$domain\"
 $outputUserPass = "GPP_UserPass_Results.txt"
 $outputKeywordHits = "GPP_Files_With_Keywords.txt"
