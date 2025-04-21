@@ -22,7 +22,7 @@ import base64
 from Crypto.Cipher import AES
 
 # --- CONFIG ---
-SYSVOL_PATH = "/mnt/sysvol/se.usa/Policies"
+SYSVOL_PATH = "/mnt/sysvol/evil.corp/Policies" #Update evil.corp with your AD domain
 OUTPUT_FILE = "GPP_Found.txt"
 
 # Microsoft AES Key (static)
